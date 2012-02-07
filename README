@@ -57,7 +57,7 @@ user@DB> @editcode <package>
 
 	retrieve the source code for <package> and open the default editor (vim)
 	e.g., '@editcode PROCS_DATE' will create PROCS_DATE.sql in the current 
-		directory, and open PROCS_DATE.sql in vim, and recompiles after
+		directory, and open PROCS_DATE.sql in vim, and recompile after
 		exiting vim
 
 user@DB> @explain
