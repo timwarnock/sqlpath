@@ -1,4 +1,4 @@
-sqlpath
+sqlpath by tim@timwarnock.com
 sqlplus utility scripts
 
 Set your $SQLPATH to include the directory containing these files. Each of these is a sql script to allow for a more user friendly sqlplus environment.
